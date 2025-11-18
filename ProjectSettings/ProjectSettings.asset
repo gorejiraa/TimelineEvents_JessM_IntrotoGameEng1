@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: NSCC / gorejiraa
   productName: TimelineEvents_JessM_IntrotoGameEng1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -849,8 +849,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: TimelineEvents_JessM_IntrotoGameEng1
-  metroPackageVersion: 
+  metroPackageName: TimelineEventsJessMIntrotoGameEng1
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -858,7 +858,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: TimelineEvents_JessM_IntrotoGameEng1
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: TimelineEvents_JessM_IntrotoGameEng1
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
